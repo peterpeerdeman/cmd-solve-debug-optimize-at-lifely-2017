@@ -1,3 +1,3 @@
-The slides can be found on http://peterpeerdeman.github.io/the-lifely-journey-through-meteor-applications/
+It can be found on http://peterpeerdeman.github.io/cmd-solve-debug-optimize-at-lifely-2017
 
-This presentation was given on the 7th of December 2016 at [MeteorNL Meetup at Lifely](www.meetup.com/Meteor-NL/events/234914949/)
+This talk was given on 03-04-2017 at the Lifely office.
